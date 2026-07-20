@@ -27,6 +27,20 @@ Cyber24 is a free, no-account **online file toolkit** at [cyber24.dev](https://c
 
 The same toolkit ships as a **native Android app** that runs the heavy work on the device, so downloads go over your own connection and your files stay on your phone.
 
+## Screenshots
+
+<div align="center">
+
+**The home panel: every tool wired to one core**
+
+<img src="screenshots/web-home.png" alt="Cyber24 home page: free online file tools, video downloader, converter, and transcriber, every tool wired to one core" width="820">
+
+**Every tool, grouped by what it does**
+
+<img src="screenshots/web-tools.png" alt="Cyber24 tools page: the full grid of file tools, YouTube and playlist downloaders, PDF, image, video, and audio converters" width="820">
+
+</div>
+
 ## Tools
 
 - **Video downloader and playlist downloader.** Download public video and audio from YouTube, Facebook, Instagram, Twitter and X, TikTok, Reddit, Vimeo, Dailymotion, Twitch, SoundCloud, Bilibili, and well over a thousand more sites. Pick a resolution up to 4K, pull the audio as MP3, M4A, Opus, or WAV with cover art and tags, take the subtitles, grab the poster, cut a section, remove sponsor segments, or take a whole YouTube playlist as separate numbered files. Public content only.
